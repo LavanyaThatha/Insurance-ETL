@@ -1,0 +1,5 @@
+@"
+insurance.db
+pipeline.log
+__pycache__/
+"@ | Out-File -Encoding ascii .gitignore
